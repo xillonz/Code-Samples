@@ -1,7 +1,7 @@
 ## Neural Network Sample
 
 ### Tech
-Clientside Javascript - no framworks
+Clientside Javascript - no frameworks
 
 ### Description
 This clientside javascript sample is a component in a neural network I developed after teaching myself the 
